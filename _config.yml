@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://Kimkgh8.github.io/indigo
+url: https://Kimkgh8.github.io/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -54,8 +54,8 @@ email: kimkgh8@gmail.com
 
 authors:
   johndoe:
-    name: ê¹€ ê·¼í˜¸
-    bio: ì¼ë³¸ì—ì„œ ê¿ˆì„ í‚¤ìš°ê³  ìˆëŠ” ê°œë°œì
+    name: ±è ±ÙÈ£
+    bio: ÀÏº»¿¡¼­ ²ŞÀ» Å°¿ì°í ÀÖ´Â °³¹ßÀÚ
     external-image: false
     picture: assets/images/profile.jpg
     twitter: Kim Geunho
