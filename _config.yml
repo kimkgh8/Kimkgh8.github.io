@@ -1,5 +1,5 @@
 # main text of home
-name: 김 근호
+name: Kim Geunho
 bio: Dream is My life
 
 # twitter summary info
@@ -34,42 +34,41 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-#facebook: myfacebook
-#twitter: mytwitter
+# facebook: myfacebook
+# twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: Kimkgh8.github.io/
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: kimkgh8@gmail.com
-language: ko
 authors:
   johndoe:
-    name: 김 근호
-    bio: dream is my life
+    name: Kim Geunho
+    bio: Dream is my life
     external-image: false
     picture: assets/images/profile.jpg
     twitter: Kim Geunho
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+ # jamesfoster:
+ #   name: James Foster
+ #   bio: A Man who develops software with coffee
+ #   external-image: false
+ #   picture: assets/images/james.jpg
+ #   twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
