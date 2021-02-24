@@ -26,6 +26,7 @@ layout: page
 	<li>CSS</li>
 	<li>JSP</li>
 	<li>JUnit</li>
+	<li>JMeter</li>
 	<li>Git</li>
 	<li>Python(기본 문법 수준)</li>
 	<li>Oracle</li>
