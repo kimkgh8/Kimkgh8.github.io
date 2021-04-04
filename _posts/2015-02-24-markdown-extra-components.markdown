@@ -15,7 +15,7 @@ description: Markdown summary with different options
 
 ## Summary:
 
-You can pick as item to see how to apply in markdown어오오오오ㅗ.
+You can pick as item to see how to apply in markdown
 
 #### Especial Elements
 - [Evidence](#evidence)
