@@ -119,7 +119,7 @@ class PublicContentTests(unittest.TestCase):
             "https://play.google.com/store/apps/details?id=com.babyspace",
             app_page,
         )
-        self.assertIn("시행일: 2026년 8월 9일", privacy_page)
+        self.assertIn("시행일: 2026년 8월 10일", privacy_page)
         self.assertIn("Firebase Authentication", privacy_page)
 
     def test_privacy_pages_cover_google_play_basics(self):
