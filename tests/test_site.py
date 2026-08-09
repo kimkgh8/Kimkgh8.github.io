@@ -111,6 +111,17 @@ class PublicContentTests(unittest.TestCase):
         )
         self.assertGreaterEqual(homepage.count("play-lh.googleusercontent.com"), 2)
 
+    def test_babyspace_app_and_privacy_routes_have_distinct_content(self):
+        app_page = self.pages.get("apps/babyspace/index.html", "")
+        privacy_page = self.pages.get("privacy/babyspace/index.html", "")
+
+        self.assertIn(
+            "https://play.google.com/store/apps/details?id=com.babyspace",
+            app_page,
+        )
+        self.assertIn("시행일: 2026년 8월 9일", privacy_page)
+        self.assertIn("Firebase Authentication", privacy_page)
+
     def test_privacy_pages_cover_google_play_basics(self):
         expected = {
             "privacy/babyspace/index.html": [
